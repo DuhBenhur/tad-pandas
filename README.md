@@ -1,4 +1,4 @@
-# TAD: Pands
+# TAD: Pandas
 
 O material desse TAD foi retirado do [Tutorial de Introdução aos Módulos de Análise de Dados](https://github.com/leportella/tutorial-modulos-data-science) produzido pela @leportella e @jtemporal
 
