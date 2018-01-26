@@ -1,0 +1,10 @@
+# Ambiente de desenvolvimento
+jupyter
+notebook
+
+# Módulos de análise
+numpy
+pandas
+
+# Módulos de visualizaço
+matplotlib
